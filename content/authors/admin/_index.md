@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:michael.renzler@uibk.ac.at
+  link: 'mailto:michael.renzler@uibk.ac.at'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.at/citations?user=SEzWXjEAAAAJ&hl=de
