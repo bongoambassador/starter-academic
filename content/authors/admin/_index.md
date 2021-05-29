@@ -39,7 +39,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: 'mailto:michael.renzler@uibk.ac.at'
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.at/citations?user=SEzWXjEAAAAJ&hl=de
 - icon: orcid
@@ -51,7 +51,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Michael-Renzler
- - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/MichaelRenzler
 - icon: linkedin
