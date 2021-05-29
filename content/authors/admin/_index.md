@@ -43,13 +43,13 @@ social:
   icon_pack: fab
   link: https://twitter.com/MichaelRenzler
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.at/citations?user=SEzWXjEAAAAJ&hl=de
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-9411-5460
 - icon: publons
-  icon_pack: fab
+  icon_pack: ai
   link: https://publons.com/researcher/3664120/michael-renzler/
 - icon: researchgate
   icon_pack: fab
