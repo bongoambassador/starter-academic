@@ -38,10 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MichaelRenzler
+  link: mailto:michael.renzler@uibk.ac.at
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.at/citations?user=SEzWXjEAAAAJ&hl=de
@@ -54,6 +51,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Michael-Renzler
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MichaelRenzler
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/michael-renzler-7078b012b/
