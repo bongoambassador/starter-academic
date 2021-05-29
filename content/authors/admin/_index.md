@@ -25,15 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Physics, 2016
+    institution: Univeristy of Innsbruck
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Physics, 2013
+    institution: University of Innsbruck
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,15 +42,21 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MichaelRenzler
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.at/citations?user=SEzWXjEAAAAJ&hl=de
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0002-9411-5460
+- icon: publons
+  icon_pack: fab
+  link: https://publons.com/researcher/3664120/michael-renzler/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Michael-Renzler
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/michael-renzler-7078b012b/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
