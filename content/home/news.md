@@ -12,9 +12,9 @@ weight: 50
 title: Contact
 subtitle:
 
-content:
-
   
 design:
   columns: '2'
 ---
+
+These are news
