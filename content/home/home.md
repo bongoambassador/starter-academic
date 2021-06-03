@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Home
+title:
 subtitle:
 
 content:
 
-  
+
 design:
   columns: '2'
 ---
