@@ -12,8 +12,6 @@ weight: 30
 title: Research
 subtitle:
 
-content:
-
   
 design:
   columns: '2'
