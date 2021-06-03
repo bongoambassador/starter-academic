@@ -1,12 +1,20 @@
-+++
-# Teaching 
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
-columns = 1
+# This file represents a page section.
+headless: true
 
-title = "Academic Template"
-subtitle = ""
+# Order that this section appears on the page.
+weight: 50
 
+title: Contact
+subtitle:
+
+content:
+
+  
+design:
+  columns: '2'
+---
