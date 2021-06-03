@@ -11,10 +11,9 @@ weight: 50
 
 title: Contact
 subtitle:
-
-content:
-
   
 design:
   columns: '2'
 ---
+
+This is teaching
