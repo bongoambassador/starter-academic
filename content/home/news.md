@@ -7,14 +7,14 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Contact
 subtitle:
-
-content:
 
   
 design:
   columns: '2'
 ---
+
+These are news

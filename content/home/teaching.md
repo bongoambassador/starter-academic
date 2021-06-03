@@ -7,14 +7,13 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
-title: Contact
+title: Teaching
 subtitle:
-
-content:
-
   
 design:
   columns: '2'
 ---
+
+This is teaching
