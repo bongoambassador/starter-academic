@@ -13,7 +13,7 @@ title: Start
 subtitle: start
 
 design:
-  columns: '1'
+  columns: '2'
 
   background:
 
