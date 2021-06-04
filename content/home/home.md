@@ -18,7 +18,7 @@ content:
 design:
   columns: '1'
 
-  background: 'ocean.jpg'
+  background: ocean
   #image_size: cover
   #image_position: center
 ---
