@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title:  
-subtitle:
+title: Start
+subtitle: start
 
 design:
   columns: '1'
