@@ -30,7 +30,7 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+    text_color_light: true
 
   spacing:
       padding: ["20px", "0", "20px", "0"]
@@ -38,36 +38,4 @@ design:
 
 Welcome to my website!
 
-I am Michael Renzler, a nanophycisist working at the department of mechatronics
-
-blablab
-
-blablab
-
-balalba
-
-ballbal
-
-blalbal
-
-blablab
-
-
-blalabl
-
-blablab
-
-blablab
-
-lblalbal
-
-
-
-
-
-
-
-
-
-
-aaa
+I am Michael Renzler, a nanophycisist working at the department of mechatronics 
