@@ -18,7 +18,8 @@ org_name: ''
 description: ''
 twitter: ''
 email: michael.renzler@uibk.ac.at
-address: Technikerstraße 13, 6020 Innsbruck
+street: Technikerstraße 13, 6020 Innsbruck
+#address: Technikerstraße 13, 6020 Innsbruck
 
 
 # Site header
