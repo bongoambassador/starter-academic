@@ -18,11 +18,15 @@ org_name: ''
 description: ''
 twitter: ''
 email: michael.renzler@uibk.ac.at
+phone: '+43 512 507 62735'
 adress:
   street: Technikerstraße 13
   city: Innsbruck
+  region: ''
   postcode: '6020'
-appointment_url: 'https:calendly.com' 
+  country: ''
+  country_code: ''
+appointment_url: 'https:calendly.com'
 #address: Technikerstraße 13, 6020 Innsbruck
 
 
