@@ -32,12 +32,15 @@ organizations:
     url: https://www.uibk.ac.at/
 education:
   courses:
-    - course: PhD in Physics
-      institution: Univeristy of Innsbruck
+    - course: Ph.D. in Physics
+      institution: University of Innsbruck
       year: 2016
-    - course: MSc in Physics
+    - course: MSc. in Physics
       institution: University of Innsbruck
       year: 2013
+    - course: BSc. in Physics
+      institution: University of Innsbruck
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
