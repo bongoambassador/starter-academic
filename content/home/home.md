@@ -18,9 +18,9 @@ content:
 design:
   columns: '1'
 
-  background: ocean.jpg
-  image_size: cover
-  image_position: center
+  #background: ocean.jpg
+  #image_size: cover
+  #image_position: center
 ---
 
 Hello there!!
