@@ -33,7 +33,7 @@ design:
     text_color_light: true
 
   spacing:
-      padding: ["20px", "0", "200px", "0"]
+      padding: ["20px", "0", "400px", "0"]
 ---
 
 Welcome to my website!
