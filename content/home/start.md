@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: slider
 
 # This file represents a page section.
 headless: true
@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Start
-subtitle: start
+title:
+subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 
   background:
 
