@@ -9,12 +9,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title:
+title:  
 subtitle:
 
 content:
 
 
 design:
-  columns: '2'
+  columns: '1'
+
+  background: ocean.jpg
+  image_size: cover
+  image_position: center
 ---
+
+Hello there!!
