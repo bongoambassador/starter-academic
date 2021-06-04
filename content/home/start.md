@@ -14,7 +14,6 @@ subtitle:
 
 design:
   columns: '1'
-
   background:
 
     color: 'navy'
@@ -32,6 +31,9 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
+
+  spacing:
+      padding: ["20px", "0", "20px", "0"]
 ---
 
 Welcome to my website!
