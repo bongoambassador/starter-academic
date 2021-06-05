@@ -49,4 +49,4 @@ highlight_name: false
 Welcome to my website! I am currently a senior scientist at the Department of Mechatronics at the University of Innsbruck working on the design of antennas using evolutionary algorithms. During my time as a PhD student at the Department of Ion Physics and Applied Physics I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
