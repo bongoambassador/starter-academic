@@ -38,6 +38,8 @@ design:
 
 # Welcome to my website!
 
-### My name is Michael Renzler and I am Physicist working at the University of Innsbruck
+## My name is Michael Renzler
+
+### I am Physicist working at the University of Innsbruck
 
 Blbalblb **aa** aa *aalalal* lallal
