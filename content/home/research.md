@@ -2,6 +2,7 @@
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: blank
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +13,7 @@ weight: 40
 title: Research
 subtitle:
 
-  
+
 design:
   columns: '2'
   # background:
@@ -27,4 +28,3 @@ design:
 ---
 
 This is my research. It is good
-

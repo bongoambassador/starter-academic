@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: '#news'
-    weight: 20
-  - name: Research
-    url: '#research'
-    weight: 30
-  - name: Publications
-    url: '#publications'
-    weight: 40
-  - name: Teaching
-    url: '#teaching'
-    weight: 50
-  - name: Posts
-    url: '#posts'
+#  - name: News
+#    url: '#news'
+#    weight: 20
+#  - name: Research
+#    url: '#research'
+#    weight: 30
+#  - name: Publications
+#    url: '#publications'
+#    weight: 40
+#  - name: Teaching
+#    url: '#teaching'
+#    weight: 50
+#  - name: Posts
+#    url: '#posts'
     weight: 60
   - name: Contact
     url: '#contact'
