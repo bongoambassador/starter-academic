@@ -36,6 +36,6 @@ design:
       padding: ["20px", "0", "400px", "0"]
 ---
 
-### Welcome to my website!
+# Welcome to my website!
 
-## I am a senior scientist at the Department of Mechatronics at the University of Innsbruck.
+### I am a senior scientist at the **Department of Mechatronics** at the University of Innsbruck.
