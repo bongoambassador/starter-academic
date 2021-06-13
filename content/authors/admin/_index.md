@@ -47,9 +47,12 @@ superuser: true
 highlight_name: false
 ---
 
-I am a senior scientist at the Department of Mechatronics at the University of Innsbruck.
+I am a senior scientist at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/mikroelektronik/) at the University of Innsbruck.
 
-working on the design of antennas using evolutionary algorithms. During my time as a PhD student at the Department of Ion Physics and Applied Physics I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions.
+After studying physics from 2007 - 2013 (one year abroad at the [University of Linköping](https://liu.se/)) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics, working as a research assistant in the [Nano-Bio-Phyics](https://www.uibk.ac.at/ionen-angewandte-physik/nanobio/) group of Prof. Paul Scheier at the Department of Ion Physics and Applied Physics.
+
+During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions, developing a strong background in nano- & cluster physics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_MR_en.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "uploads/cv_MR_en.pdf" "newtab" >}}CV{{< /staticref >}}.
