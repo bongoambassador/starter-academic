@@ -36,6 +36,6 @@ design:
       padding: ["20px", "0", "400px", "0"]
 ---
 
-Welcome to my website!
+## Welcome to my website!
 
-I am Michael Renzler, a nanophycisist working at the department of mechatronics
+### I am a senior scientist at the Department of Mechatronics at the University of Innsbruck.
