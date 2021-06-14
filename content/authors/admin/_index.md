@@ -49,7 +49,7 @@ highlight_name: false
 
 I am a senior scientist at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/) at the University of Innsbruck.
 
-After studying physics in Innsbruck and the [University of Linköping](https://liu.se/)) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics under the supervision of Prof. Paul Scheier  [Prof. Paul Scheier](https://www.uibk.ac.at/sp-physik/research-groups/p_scheier.html).
+After studying physics in Innsbruck and the [University of Linköping](https://liu.se/)) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics under the supervision of [Prof. Paul Scheier](https://www.uibk.ac.at/sp-physik/research-groups/p_scheier.html).
 
 During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions, developing a strong background in nano- & cluster physics and experimental techniques such as mass spectrometry and vacuum technology.
 
