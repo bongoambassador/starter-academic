@@ -53,7 +53,11 @@ After studying physics from 2007 - 2013 (one year abroad at the [University of L
 
 During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions, developing a strong background in nano- & cluster physics and experimental techniques such as mass spectrometry and vacuum technology.
 
-Since 2016 I am working in the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/), where I 
+Since 2016 I am working in the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithm and exploring various application scenarios that are possible with this technique.
+
+I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our anechoic chamber. 
+
+
 
 
 
