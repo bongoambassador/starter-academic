@@ -49,15 +49,13 @@ highlight_name: false
 
 I am a senior scientist at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/) at the University of Innsbruck.
 
-After studying physics from 2007 - 2013 (one year abroad at the [University of Linköping](https://liu.se/)) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics, working as a research assistant in the [Nano-Bio-Phyics](https://www.uibk.ac.at/ionen-angewandte-physik/nanobio/) group of Prof. Paul Scheier at the Department of Ion Physics and Applied Physics.
+After studying physics in Innsbruck and the [University of Linköping](https://liu.se/)) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics under the supervision of Prof. Paul Scheier  [Prof. Paul Scheier](https://www.uibk.ac.at/sp-physik/research-groups/p_scheier.html).
 
 During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions, developing a strong background in nano- & cluster physics and experimental techniques such as mass spectrometry and vacuum technology.
 
-Since 2016 I am working in the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithm and exploring various application scenarios that are possible with this technique.
+Since 2016 I am working in the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithm and exploring various application scenarios that are possible with this technique. I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our anechoic chamber.
 
-I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our anechoic chamber. 
-
-
+Feel free to connect with me via my professional networks or write me a mail. I am always open for collaborations!
 
 
 
