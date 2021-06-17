@@ -38,4 +38,4 @@ design:
 
 # Welcome to my website!
 
-### I am a Physicist working at the University of Innsbruck
+### I am a physicist dipping my toes in electrical engineering
