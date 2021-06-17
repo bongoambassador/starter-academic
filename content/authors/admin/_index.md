@@ -47,7 +47,7 @@ superuser: true
 highlight_name: false
 ---
 
-I am a senior scientist at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/) at the [University of Innsbruck](https://www.uibk.ac.at).
+I am a senior scientist working at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/) at the [University of Innsbruck](https://www.uibk.ac.at).
 
 After studying physics in Innsbruck and the [University of Linköping](https://liu.se/) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics under the supervision of [Prof. Paul Scheier](https://www.uibk.ac.at/sp-physik/research-groups/p_scheier.html).
 
