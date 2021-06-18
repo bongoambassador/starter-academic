@@ -1,5 +1,5 @@
 ---
-title: "On subthreshold ionization of helium droplets, ejection of He^+, and the
+title: "On subthreshold ionization of helium droplets, ejection of He<sup>+</sup>, and the
   role of anions "
 publication_types:
   - "2"
