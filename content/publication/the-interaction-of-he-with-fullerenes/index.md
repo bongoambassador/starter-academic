@@ -1,5 +1,5 @@
 ---
-title: The interaction of He- with fullerenes
+title: The interaction of He$^-$ with fullerenes
 publication_types:
   - "2"
 authors:
