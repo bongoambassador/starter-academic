@@ -1,6 +1,5 @@
 ---
-title: An Experimental Study on the Feasibility of a Frequency Diverse {UHF}
-  {RFID} System
+title: An Experimental Study on the Feasibility of a Frequency Diverse UHF RFID System
 publication_types:
   - "2"
 authors:
@@ -18,5 +17,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-05T12:51:00.000Z
+date: 2019-09-05T12:51:00.000Z
 ---
