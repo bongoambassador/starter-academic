@@ -53,7 +53,7 @@ After studying physics in Innsbruck and the [University of Linköping](https://l
 
 During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions.
 
-Since 2016 I am working in the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithms and exploring various application scenarios that are possible with this technique. I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our own anechoic chamber.
+In 2016 I started working with the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithms and exploring various application scenarios that are possible with this technique. I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our own anechoic chamber.
 
 Feel free to connect with me via my professional networks or write me a mail. I am always open for collaborations!
 
