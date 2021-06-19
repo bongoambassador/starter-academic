@@ -1,7 +1,9 @@
 ---
-title: "On subthreshold ionization of helium droplets, ejection of He[^+], and the role of anions"
+title: On subthreshold ionization of helium droplets, ejection of He[^+], and
+  the role of anions
 publication_types:
   - "2"
+  - "0"
 authors:
   - Michael Renzler
   - Matthias Daxner
