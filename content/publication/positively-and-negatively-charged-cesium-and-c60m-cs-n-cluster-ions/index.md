@@ -1,5 +1,5 @@
 ---
-title: Positively and Negatively Charged Cesium and (C60m)Cs(n) Cluster Ions
+title: Positively and Negatively Charged Cesium and (C60$_m$)Cs$_n$ Cluster Ions
 publication_types:
   - "2"
 authors:
