@@ -47,15 +47,15 @@ superuser: true
 highlight_name: false
 ---
 
-I am a senior scientist working at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/) at the [University of Innsbruck](https://www.uibk.ac.at).
+I am a senior scientist working at the [University of Innsbruck](https://www.uibk.ac.at).
 
 After studying physics in Innsbruck and the [University of Linköping](https://liu.se/) I obtained my PhD. from the University of Innsbruck in 2016 in the field of experimental ion physics under the supervision of [Prof. Paul Scheier](https://www.uibk.ac.at/sp-physik/research-groups/p_scheier.html).
 
 During my time as a PhD student I worked on cluster growth in helium nanodroplets and the behaviour of pristine helium droplets upon electron interactions.
 
-In 2016 I started working with the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/). My main research interest is studying antenna design using evolutionary algorithms and exploring various application scenarios that are possible with this technique. I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our own anechoic chamber.
+In 2016 I started working with the research group [Microelectronics and Implantable Systems](https://www.uibk.ac.at/mechatronik/mikroelektronik/) at the [Department of Mechatronics](https://www.uibk.ac.at/mechatronik/). My main research interest is studying antenna design using evolutionary algorithms and exploring various application scenarios that are possible with this technique. I also work in the field of electromagnetic compatibility, where I perform product tests for companies in our own anechoic chamber.
 
-Feel free to connect with me via my professional networks or write me a mail. I am always open for collaborations!
+Feel free to connect with me via my professional networks or write me an e-mail. I am always open for collaborations!
 
 
 
