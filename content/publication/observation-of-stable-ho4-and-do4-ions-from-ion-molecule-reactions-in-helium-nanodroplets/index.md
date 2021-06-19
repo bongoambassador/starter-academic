@@ -1,6 +1,6 @@
 ---
-title: Observation of stable HO4+ and DO4+ ions from ion - molecule reactions in
-  helium nanodroplets
+title: Observation of stable {HO}4$\ensuremath{^+}$ and {DO}4$\ensuremath{^+}$
+  ions from ion - molecule reactions in helium nanodroplets
 publication_types:
   - "2"
 authors:
