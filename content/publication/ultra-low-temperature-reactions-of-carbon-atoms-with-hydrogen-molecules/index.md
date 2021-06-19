@@ -9,7 +9,8 @@ authors:
   - C. Jäger
   - Th. Henning
   - P. Scheier
-publication: 10.3847/2041-8205/818/2/l31
+doi: 10.3847/2041-8205/818/2/l31
+publication: The Astrophysical Journal Letters
 draft: false
 featured: false
 image:
