@@ -1,7 +1,6 @@
 ---
 title: Formation of Dianions in Helium Nanodroplets
 publication_types:
-  - "0"
   - "2"
 authors:
   - Andreas Mauracher
