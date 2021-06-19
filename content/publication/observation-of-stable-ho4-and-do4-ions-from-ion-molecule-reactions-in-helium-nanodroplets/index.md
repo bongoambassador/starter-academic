@@ -1,5 +1,5 @@
 ---
-title: Observation of stable {HO}4$\ensuremath{^+}$ and {DO}4$\ensuremath{^+}$
+title: Observation of stable ${HO}_4\ensuremath{^+}$ and ${DO}_4\ensuremath{^+}$
   ions from ion - molecule reactions in helium nanodroplets
 publication_types:
   - "2"
