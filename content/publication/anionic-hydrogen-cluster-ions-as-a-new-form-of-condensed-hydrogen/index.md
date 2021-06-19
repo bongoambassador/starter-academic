@@ -18,5 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Editors' Suggestion
+  alt_text: Editors' Suggestion
 date: 2016-12-27T10:51:00.000Z
 ---
