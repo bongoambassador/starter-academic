@@ -2,7 +2,6 @@
 title: Electron-Induced Chemistry of Cobalt Tricarbonyl Nitrosyl (Co(CO)3NO) in
   Liquid Helium Nanodroplets
 publication_types:
-  - "0"
   - "2"
 authors:
   - Johannes Postler
