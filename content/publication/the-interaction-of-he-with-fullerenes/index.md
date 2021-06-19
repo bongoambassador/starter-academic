@@ -1,7 +1,6 @@
 ---
 title: The interaction of He- with fullerenes
 publication_types:
-  - "0"
   - "2"
 authors:
   - Andreas Mauracher
