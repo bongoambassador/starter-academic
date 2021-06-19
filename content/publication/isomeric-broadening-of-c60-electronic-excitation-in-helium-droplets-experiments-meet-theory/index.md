@@ -1,6 +1,6 @@
 ---
-title: "Isomeric Broadening of C60+ Electronic Excitation in Helium Droplets:
-  Experiments Meet Theory"
+title: "Isomeric Broadening of C$_{60}^+$ Electronic Excitation in Helium
+  Droplets: Experiments Meet Theory"
 publication_types:
   - "2"
 authors:
