@@ -3,7 +3,6 @@ title: Experimental evidence for the influence of charge on the adsorption
   capacity of carbon dioxide on charged fullerenes
 subtitle: ""
 publication_types:
-  - "0"
   - "2"
 authors:
   - Stefan Ralser
