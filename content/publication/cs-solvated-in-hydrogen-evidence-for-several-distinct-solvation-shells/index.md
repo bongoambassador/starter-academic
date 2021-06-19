@@ -1,5 +1,5 @@
 ---
-title: Cs+ Solvated in Hydrogen - Evidence for Several Distinct Solvation Shells
+title: Cs$^+$ Solvated in Hydrogen - Evidence for Several Distinct Solvation Shells
 publication_types:
   - "2"
 authors:
