@@ -15,7 +15,7 @@ subtitle:
 
 
 design:
-  columns: '2'
+  columns: '1'
   # background:
   #  image: open-book.jpg
    # image_darken: 1.0
