@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: pages
 active: false
 
 # This file represents a page section.
@@ -15,7 +15,7 @@ subtitle:
 
 
 design:
-  columns: '2'
+  columns: '1'
   # background:
   #  image: open-book.jpg
    # image_darken: 1.0
