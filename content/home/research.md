@@ -30,9 +30,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: academic
+  - name: EMC
     tag: EMC
-  - name: Other
+  - name: Antenna Design
     tag: Antenna Design
 
 design:
