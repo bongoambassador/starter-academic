@@ -34,8 +34,7 @@ content:
     tag: EMC
   - name: Antenna Design
     tag: Antenna Design
-
-
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
