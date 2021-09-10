@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: Antenna Design
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Antenna Design
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
