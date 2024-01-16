@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: wowchemy/gh-action-updater@v1
         with:
-          feed-url: https://hugoblox.com/blog/
+          feed-url: https://hugoblox.com/blog.html
           readme-section: news
